@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/teru/.platformio/penv/bin:/Users/teru/.platformio/penv:/Users/teru/.pyenv/bin:/Users/teru/.pyenv/shims:/Users/teru/.pyenv/shims:/Users/teru/.rbenv/shims:/bin:/opt/X11/bin:/sbin:/usr/bin:/usr/local/bin:/usr/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
